@@ -405,7 +405,7 @@ export default function Home() {
             <h1 className="text-[black] text-outline text-[90px] leading-[108px] font-normal font-title">CASAIS / PARA MASSAGEM</h1>
           </div>
         </div>
-        <div className="bgimg bg-slate-500 h-[660px]">
+        {/* <div className="bgimg bg-slate-500 h-[660px]">
           <div className="w-full mw-[1440px] my-auto mx-0">
             <div className="flex flex-col items-center justify-center pt-[130px]">
               <h1 className="text-[#F895B6] text-[24px] leading-[30px] font-normal font-title">CONHECA</h1>
@@ -413,7 +413,7 @@ export default function Home() {
               <p className="text-[#989898] text-[17.86px] leading-[30px] font-normal font-Poppins w-[740.09px] text-center pt-[25px]">Lorem ipsum dolor sit amet consectetur. Turpis mattis viverra et etiam faucibus nunc id a. Montes nunc at vestibulum nisi lectus malesuada duis. Sodales est erat.</p>
             </div>
           </div>
-        </div>
+        </div> */}
       </main>
       
     </>
